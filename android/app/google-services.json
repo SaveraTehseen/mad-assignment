@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473415287643",
+    "project_id": "madassignment-db8ad",
+    "storage_bucket": "madassignment-db8ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473415287643:android:f811a007df8b4b4248107e",
+        "android_client_info": {
+          "package_name": "com.example.madassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkScqPNy6JjHfx3uXVW9PLtcAu7wi-kJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473415287643:android:7039f24458fd70c048107e",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkScqPNy6JjHfx3uXVW9PLtcAu7wi-kJo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
